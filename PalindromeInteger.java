@@ -14,7 +14,7 @@ class PalindromeInteger
   }
   public static void isPalindrome()
   {
-	  return 1;	
+	  	
   }                
 
 }
