@@ -10,15 +10,15 @@ class MinMaxAvg
    }
       public static int Max()
       {
-	  }
-         
+	      return 1;
+      }
       public static int Min()
       {
-         
+	      return 1;         
       }
       public static int Average()
       {
-      
+	      return 1;      
       }
 }
       
