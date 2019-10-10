@@ -10,11 +10,11 @@ class PalindromeInteger
    }
   public static int reverse()
   {
-  
+	  return 1;  
   }
   public static void isPalindrome()
   {
-	
+	  return 1;	
   }                
 
 }
