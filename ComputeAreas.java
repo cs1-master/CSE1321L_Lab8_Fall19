@@ -10,19 +10,19 @@ class ComputeAreas
     }
       public static double SquareArea()
       {
-         
+         return 1;         
       }
       public static double RectangleArea ()
       {
-         
+         return 1;         
       }
       public static double CircleArea ()
       {
-         
+         return 1;         
       }
       public static double TriangleArea ()
       {
-         
+         return 1;         
       }
       
 }
